@@ -1,5 +1,5 @@
 public class Main {
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args) {
 
         SpeedTrain comfortableWagon = new SpeedTrain("Minsk-Warsaw", 120,"Comfortable", 80, 100);
         System.out.println(comfortableWagon.toString());
